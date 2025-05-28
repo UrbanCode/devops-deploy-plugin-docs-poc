@@ -23,7 +23,7 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     editLink: {
-      pattern: 'https://github.com/UrbanCode/devops-deploy-plugin-docs/edit/main/docs/:path'
+      pattern: 'https://github.com/UrbanCode/devops-deploy-plugin-docs-poc/edit/main/docs/:path'
     },
     search: {
       provider: 'local'
@@ -37,7 +37,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/UrbanCode/devops-deploy-plugin-docs' }
+      { icon: 'github', link: 'https://github.com/UrbanCode/devops-deploy-plugin-docs-poc' }
     ],
     footer: {
       copyright: "©️ IBM Corp. 2011, 2017. <br> ©️ HCL Technologies Limited 2018, 2025.",
